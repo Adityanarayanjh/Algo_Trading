@@ -1,1 +1,1 @@
-Algo_Trading
+Algorithmic Trading Strategies
